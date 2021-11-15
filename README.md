@@ -2,6 +2,10 @@
 
 Here is a list of syllabi for courses I've manged to save during my time in college.
 
+=======================================
+**University of Arizona (Undergraduate)**
+=======================================
+
 -- [Networking](/CSC%20425%20-%20Networking_Syllabus.pdf)
 
 -- [Automata Theory, Grammer and Languages](/CSC%20473-%20Automata%20Grammer%20and%20Languages.pdf)
@@ -17,6 +21,10 @@ Here is a list of syllabi for courses I've manged to save during my time in coll
 -- [Intro to Ordinary Differential Equations](/Math254%20-Ordinary-Diffeq-Syllabus.pdf)
 
 -- [Formal Mathematical Reasoning and Writing](/Math323-Formal%20Logic%20and%20Proofs%20Syllabus.pdf)
+
+=======================================
+**University of Southern California (Graduate)**
+=======================================
 
 -- [Foundations of Aritifical Intelligence](/CSCI-561-AI_Syllabus.pdf)
 
