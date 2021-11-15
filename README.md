@@ -1,6 +1,10 @@
 # Syllabi_for_School
 
-Here is a list of syllabi for courses I've manged to save during my time in college.
+Here is a list of syllabi for some of the courses I've manged to save during my time in college. 
+
+Undergraduate Majors: Computer Science, Mathematics, East Asian Studies
+
+Graduate Major: Computer Science - Aritifical Inteligence Track
 
 
 **University of Arizona (Undergraduate)**
