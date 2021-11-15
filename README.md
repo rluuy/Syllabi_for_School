@@ -1,6 +1,8 @@
 # Syllabi_for_School
 
-Here are a list of syllabi for some of the courses I've manged to save during my time in college. 
+Here are an incomplete list of syllabi for the courses I've manged to save during my time in college. 
+
+----> I'll add more once I return home and scan some of the paper ones 🙂.
 
 Undergraduate Majors: Computer Science, Mathematics, East Asian Studies
 
