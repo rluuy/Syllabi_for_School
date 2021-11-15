@@ -14,7 +14,7 @@ Graduate Major: Computer Science - Aritifical Inteligence Track
 
 -- [Automata Theory, Grammer and Languages](/CSC%20473-%20Automata%20Grammer%20and%20Languages.pdf)
 
--- [Symbolic Logioc](/CSC401A-Symbolic%20Logic%20-%20Syllabus.pdf)
+-- [Symbolic Logic](/CSC401A-Symbolic%20Logic%20-%20Syllabus.pdf)
 
 -- [Computational Linguistics](/CSC538-Graduate%20Computational%20Linguistics.pdf)
 
